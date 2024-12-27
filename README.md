@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm DarkSlayer102</h1>
-<h3 align="center">A passionate hobbyist</h3>
+<h3 align="center">A passionate Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkslayer102&label=Profile%20views&color=0e75b6&style=flat" alt="darkslayer102" /> </p>
 
-- 🔭 I’m currently working on **Web API**
+- 🔭 I’m currently working on React Native App
 
-- 🌱 I’m currently learning **Javascript DOM, React JS**
+- 🌱 I’m currently learning Go
 
-- 💬 Ask me about **Python , HTML, CSS**
+- 💬 Ask me about **Web Development, Cybersecurity**
 
-- ⚡ Fun fact **I enjoy learning new things**
+- ⚡ Fun fact **I enjoy creating new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
