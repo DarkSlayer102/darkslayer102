@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on React Native App
 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Golang, TypeScript
 
 - 💬 Ask me about **Web Development, Cybersecurity**
 
